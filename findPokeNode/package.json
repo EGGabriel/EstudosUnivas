@@ -1,0 +1,9 @@
+{
+  "name": "findpokenode",
+  "version": "1.0.0",
+  "description": "this is a study to project",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "EGGabriel"
+}
